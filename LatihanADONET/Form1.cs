@@ -384,7 +384,7 @@ namespace LatihanADONET
             dtr.Dispose();
             cmd.Dispose();
             conn.Dispose();
-        }s
+        }
     }
 
     }
